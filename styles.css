@@ -1,12 +1,17 @@
 /*  your css code here. If applicable */
+* {
+	margin: 0;
+	padding: 0;
+}
+
 #testimonials {
-	background: #f5f5f5;
+	background-color: #f5f5f5;
 	padding: 30px;
 }
 
 .testimonial {
-	background: #fff;
-	padding: 5px 20px;
+	background-color: #fff;
+	padding: 8px 20px;
 	margin: 20px;
 	border: 1px solid #aaa;
 }
