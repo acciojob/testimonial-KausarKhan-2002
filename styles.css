@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    heighttps://storage.googleapis.com/acciojob-open-file-collections/testimonial.pnght: 100vh;
+    /* heighttps://storage.googleapis.com/acciojob-open-file-collections/testimonial.pnght: 100vh; */
     margin: 0;
     background-color: #f8f9fa;
 }
@@ -29,7 +29,7 @@ body {
 }
 
 .text {
-    font-size: 1em;
+    font-size: .7em;
     margin: 0 0 10px;
 }
 
@@ -38,4 +38,5 @@ body {
     text-align: right;
     font-style: italic;
     color: #555;
+	font-size: .6em;
 }
